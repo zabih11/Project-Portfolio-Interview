@@ -31,6 +31,20 @@ The system demonstrates multimodal AI capabilities for:
 - **Natural Control Modes:** Switch seamlessly between manual hand gesture control, object retrieval mode, and autonomous follow-me mode.
 
 ---
+## 🔧 Skills and Technologies Used
+
+- **Python** for developing key algorithms and integration scripts.
+- **ROS2** for distributed control, SLAM, and navigation planning.
+- **OpenCV** for computer vision tasks and user interface development.
+- **YOLOv5** for custom object detection and recognition.
+- **SpeechRecognition** (Google Speech-to-Text API) for voice command processing.
+- **MediaPipe** for hand gesture and holistic tracking.
+- **SLAM** using a LiDAR sensor for mapping and localisation.
+
+---
+
+These were the core technologies employed to bring the project’s functionality to life, combining vision, voice, and navigation seamlessly.
+---
 
 > 📂 [Explore the project](./Assistive-Autonomous-Robot-With-Computer-Vision-Speech-Recognition-and-SLAM)
 ---
@@ -46,12 +60,7 @@ A machine learning pipeline for forecasting stock price movements:
 
 This project demonstrates time series prediction, classification, and data visualization techniques in finance.
 
+---
 > 📂 [Explore the project](./Stock-Trend_Forecasting)
 
 ---
-
-## 🔧 Skills and Technologies Used
-
-- Python, C++, ROS, OpenCV, YOLOv4, Vosk, Gazebo, TensorFlow/Keras
-- Jupyter Notebooks, Pandas, Scikit-learn, Matplotlib
-- Machine Learning, Deep Learning, SLAM, NLP, Robotics
