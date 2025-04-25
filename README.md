@@ -30,7 +30,7 @@ The system demonstrates multimodal AI capabilities for:
 - **Multimodal Navigation:** The robot autonomously scans rooms, maps the environment, and plans paths to avoid obstacles.
 - **Natural Control Modes:** Switch seamlessly between manual hand gesture control, object retrieval mode, and autonomous follow-me mode.
 
----
+
 ## 🔧 Skills and Technologies Used
 
 - **Python** for developing key algorithms and integration scripts.
@@ -41,7 +41,7 @@ The system demonstrates multimodal AI capabilities for:
 - **MediaPipe** for hand gesture and holistic tracking.
 - **SLAM** using a LiDAR sensor for mapping and localisation.
 
----
+
 
 These were the core technologies employed to bring the project’s functionality to life, combining vision, voice, and navigation seamlessly.
 ---
