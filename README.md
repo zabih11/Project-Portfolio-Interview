@@ -49,16 +49,51 @@ These were the core technologies employed to bring the project’s functionality
 > 📂 [Explore the project](./Assistive-Autonomous-Robot-With-Computer-Vision-Speech-Recognition-and-SLAM)
 ---
 
-## 📈 Stock Trend Forecasting
+## 📈 Stock Price Analysis and Forecasting
 
-A machine learning pipeline for forecasting stock price movements:
+### Overview
+A data-driven project designed to analyse and forecast stock prices using:
 
-- **Data retrieval and feature engineering** from historical financial data
-- **Model training** with LSTM and technical indicators
-- **Model evaluation** using accuracy, F1 score, and loss tracking
-- **Jupyter Notebooks** for visualization and interactive experimentation
+- **Real-time data retrieval:**  
+  Daily stock price data is fetched using the AlphaVantage API, covering a defined date range for any specified company.
 
-This project demonstrates time series prediction, classification, and data visualization techniques in finance.
+- **Data storage and management:**  
+  MongoDB is used for storing and managing historical stock price data, allowing for effective querying and updates.
+
+- **Data preprocessing:**  
+  Handles missing values, removes outliers, and normalises data to ensure accurate analysis and modelling.
+
+- **Time series modelling:**  
+  Forecasts future stock prices using ARIMA models to identify trends and predict future movements.
+
+- **CRUD operations:**  
+  Includes Create, Read, Update, and Delete operations for managing stored stock data in MongoDB.
+
+- **Data visualisation:**  
+  Generates insightful plots for stock price trends, outlier detection, and forecasting results.
+
+---
+
+### Features
+The system demonstrates end-to-end data processing and forecasting capabilities, including:
+
+- **Data Pipeline:** Efficient retrieval, cleaning, and storage of stock data for easy management.  
+- **Predictive Modelling:** ARIMA models for accurate time series forecasting of stock prices.  
+- **Interactive Management:** CRUD operations enable dynamic updates and management of the database.  
+- **Visual Insights:** Graphs and plots provide a comprehensive understanding of stock behaviours and forecasts.  
+
+---
+
+## 🔧 Skills and Technologies Used
+
+- **Python** for scripting and implementation.  
+- **MongoDB** for cloud-based data storage and management.  
+- **AlphaVantage API** for real-time stock data retrieval.  
+- **ARIMA (Time Series Modelling)** for stock price forecasting.  
+- **Data Preprocessing Libraries:** Pandas and NumPy for cleaning and formatting data.  
+- **Data Visualisation Tools:** Matplotlib and Seaborn for trend analysis and evaluation.
+
+These technologies are integrated to create a seamless, data-focused pipeline for stock price analysis.
 
 ---
 > 📂 [Explore the project](./Stock-Trend_Forecasting)
