@@ -1,0 +1,10 @@
+numpy
+requests
+pandas
+pymongo
+dnspython
+matplotlib
+scikit-learn
+statsmodels
+pmdarima
+scipy
