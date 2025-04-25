@@ -280,14 +280,14 @@ Below are some images showcasing the robot in action across its various modes an
 *Description:* This image shows the front of the robot with the camera, the grabber and the base and wheels showing.
 
 ### 2. **Robot – Side View**
-![Robot](pics/Robot_Sideview.jpg)  
+![Robot](Pics/Robot_Sideview.jpg)  
 *Description:* The Image shows a side-view of the robot with a place to hold the item grabbed.
 
 ### 3. **Object Detection - Many Items**
-![Object Detection](pics/Many_Objects.png)  
+![Object Detection](Pics/Many_Objects.png)  
 *Description:* This picture shows the detection of many objects
 
 ### 4. **Object Detection - Confidence Comparison in Approach for Grab**
-![Object Detection](pics/Confidence_Comparison.png)  
+![Object Detection](Pics/Confidence_Comparison.png)  
 *Description:* The image shows how when approaching, the item with higher confidence score is approached shown by the red light in the middle of the detected object.
 
