@@ -41,7 +41,7 @@ The system demonstrates multimodal AI capabilities for:
 - **MediaPipe** for hand gesture and holistic tracking.
 - **SLAM** using a LiDAR sensor for mapping and localisation.
 
-  These were the core technologies employed to bring the project’s functionality to life, combining vision, voice, and navigation seamlessly.
+These were the core technologies employed to bring the project’s functionality to life, combining vision, voice, and navigation seamlessly.
 
 
  
